@@ -1,7 +1,7 @@
 #No 1. Penyurvei memilih acak orang sampai bertemu yang menghadiri acara sebelumnya
 #No 1a. Peluang penyurvei tidak menghadiri
 x = 3
-p = 0.20
+prob = 0.20
 dgeom(x, p)
 
 #No 1b. Mean dengan 10000 random
