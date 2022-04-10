@@ -21,7 +21,7 @@ hist(rgeom(n, prob),
   xlim = c(0,30), xlab = "X",
 )
 
-#No 1e. Nilai rataan dan varian
+#No 1e. Nilai rataan dan varian dari Distribusi Geometrik
 e1 <- (rataan = n/p)
 e2 <- (varian <- (n-p)/(p^2))
 e1
