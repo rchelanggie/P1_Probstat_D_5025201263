@@ -2,7 +2,7 @@
 #No 1a. Peluang penyurvei tidak menghadiri
 x = 3
 prob = 0.20
-dgeom(x, p)
+dgeom(x, prob)
 
 #No 1b. Mean dengan 10000 random
 n = 10000
