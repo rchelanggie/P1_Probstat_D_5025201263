@@ -21,7 +21,7 @@ p = dgeom(x, prob)
 set.seed(0)
 hist(
   rgeom(x, p),
-  main="Histogram Vaksinasi",
+  main="Histogram Distribusi Geometrik",
   xlim = c(0, 5), xlab="X",
   ylim = c(0, 3)
 )
